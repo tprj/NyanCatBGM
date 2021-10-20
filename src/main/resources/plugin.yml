@@ -1,0 +1,4 @@
+name: NyanCatBGM
+version: @version@
+main: xyz.tprj.nyancatbgm.NyanCatBGM
+api-version: 1.16
